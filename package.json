@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react2",
+  "version": "1.0.0",
+  "description": "This is Learning Course",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Sarita and Palak",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Saritay135/Namaste-React2.git).git"
+  },
+  "bugs": {
+    "url": "https://github.com/Saritay135/Namaste-React2.git)/issues"
+  },
+  "homepage": "https://github.com/Saritay135/Namaste-React2.git)#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "install": "^0.13.0",
+    "npm": "^10.4.0",
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
